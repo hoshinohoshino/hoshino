@@ -1,2 +1,2 @@
 # hoshino
-hoshino
+hoshinohoshino
